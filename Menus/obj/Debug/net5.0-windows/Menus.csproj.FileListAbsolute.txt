@@ -1,0 +1,38 @@
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\bin\Debug\net5.0-windows\Menus.exe
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\bin\Debug\net5.0-windows\Menus.deps.json
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\bin\Debug\net5.0-windows\Menus.runtimeconfig.json
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\bin\Debug\net5.0-windows\Menus.runtimeconfig.dev.json
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\bin\Debug\net5.0-windows\Menus.dll
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\bin\Debug\net5.0-windows\ref\Menus.dll
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\bin\Debug\net5.0-windows\Menus.pdb
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.csproj.AssemblyReference.cache
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.Form1.resources
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.csproj.GenerateResource.cache
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.AssemblyInfoInputs.cache
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.AssemblyInfo.cs
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.csproj.CoreCompileInputs.cache
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.dll
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\ref\Menus.dll
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.pdb
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.genruntimeconfig.cache
+C:\Users\99451\Desktop\6 - Menus\Menus\Menus\obj\Debug\net5.0-windows\Menus.Properties.Resources.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\bin\Debug\net5.0-windows\Menus.exe
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\bin\Debug\net5.0-windows\Menus.deps.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\bin\Debug\net5.0-windows\Menus.runtimeconfig.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\bin\Debug\net5.0-windows\Menus.runtimeconfig.dev.json
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\bin\Debug\net5.0-windows\Menus.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\bin\Debug\net5.0-windows\Menus.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.Form1.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.Properties.Resources.resources
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.AssemblyInfo.cs
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\refint\Menus.dll
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.pdb
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\Menus.genruntimeconfig.cache
+C:\Users\Админ\Desktop\ДЗ\Оконные приложения\6 - NotePad\6 - NotePad\Menus\Menus\obj\Debug\net5.0-windows\ref\Menus.dll
